@@ -1,4 +1,23 @@
 
 body {
-    background: linear-gradient(to right, #BCC8D6 , #78748A)
+    background: linear-gradient(to right, #ecfffb , #b4f1f1);
+    text-align: center;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    }
+
+  
+
+
+/* Palette: 
+
+#1e6262 
+#2d767f
+#b4f1f1
+#ecfffb
+*/
