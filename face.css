@@ -121,6 +121,17 @@ textarea {
         margin: 20px auto;
 }
 
+.blog {
+        text-align: left;
+        float: left;
+        width: 75%;
+        padding: 25px;
+        border-left: 5%;
+        margin:25px auto ;
+        }
+
+
+
 /* Palette: 
 
 #1e6262 
