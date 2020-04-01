@@ -3,6 +3,7 @@ body {
     background: linear-gradient(to right, #ecfffb , #b4f1f1);
     text-align: center;
     font-family: 'Abel', sans-serif;
+    color: #2D767F;
     min-width: 500px;
 }
 
@@ -91,6 +92,33 @@ textarea {
     left: 25%;
     top: 150px;
     z-index: -1;
+}
+
+.skeleton {
+    width: 250px;
+}
+
+.column {
+    text-align: left;
+    float: left;
+    width: 33%;
+    padding: 25px;
+    border-left: 5%;
+    margin:25px auto ;
+    }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+
+.wrapper {
+        align-self: center;
+        padding: 5px;
+        max-width: 550px;
+        width: 95%;
+        margin: 20px auto;
 }
 
 /* Palette: 
