@@ -1,5 +1,6 @@
 
 body {
+    font-family: 'Abel', sans-serif;
     background: linear-gradient(to right, #ecfffb , #b4f1f1);
     text-align: center;
 }
@@ -18,7 +19,17 @@ ul {
     text-align: center;
     text-decoration: none;
     } 
+
+textarea {
+    width: 75%;
+    height: 150px;
+    line-height: 150%;
+    resize:vertical;
+    }
     
+.pageheader {
+    font-family: 'Abel', sans-serif;   
+}
 
 /* Palette: 
 
