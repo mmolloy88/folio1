@@ -11,13 +11,48 @@
         <style>
         @import url('https://fonts.googleapis.com/css2?family=Abel&family=Major+Mono+Display&display=swap');
         </style>
-    <style>
-
+<style>
+    body {margin: 0;}
+    
+    ul.topnav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #1E6262;
+      }
+      
+      ul.topnav li {float: left;}
+      
+      ul.topnav li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      ul.topnav li a:hover:not(.active) {background-color: #2D767F;}
+      
+      ul.topnav li.right {float: right;}
+      
+      @media screen and (max-width: 600px) {
+        ul.topnav li.right, 
+        ul.topnav li {float: none;}
+      }
     </style>
 </head>
 
 
 <body>
+    <ul class="topnav">
+        <li><a class="active" href="index.html">Home</a></li>
+        <li><a href="resume.html">Resume</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact Me</a></li>
+        <li class="right logo"><a href="index.html">WAM</a></li>
+    </ul>
+
     <div class = "WAM">
         <p> We Are Matt </p>
     </div>
