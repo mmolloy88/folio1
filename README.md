@@ -45,15 +45,15 @@ Here is a small diagram of my site and how each section is connected
 
 ### Screenshots:
 
-<img src="./docs/screenshot1.png" width="200px"/>
+<img src="./docs/screenshot1.png" width="350px"/>
 
-<img src="./docs/screenshot2.png" width="200px"/>
+<img src="./docs/screenshot2.png" width="350px"/>
 
-<img src="./docs/screenshot3.png" width="200px"/>
+<img src="./docs/screenshot3.png" width="350px"/>
 
-<img src="./docs/screenshot4.png" width="200px"/>
+<img src="./docs/screenshot4.png" width="350px"/>
 
-<img src="./docs/screenshot5.png" width="200px"/>
+<img src="./docs/screenshot5.png" width="350px"/>
 
 ### Target audience:
 
