@@ -60,4 +60,5 @@ this site is aimed at anyone who may be interested in employing or working
 with me in the future.
 
 
-Tech stack (e.g. html, css, deployment platform, etc)
+#### thanks:
+to pexel.com and pngwave.com for the stock images
