@@ -2,7 +2,7 @@
 ### my portfolio site:
 
 Github repository: https://github.com/mmolloy88/folio1
-Website: https://mmolloy88.github.io/folio1/
+Website: https://mmolloy88.github.io/folio1/src
 
 ### Description:
 
