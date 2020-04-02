@@ -1,5 +1,5 @@
 # folio1
-my portfolio site:
+### my portfolio site:
 
 Github repository: https://github.com/mmolloy88/folio1
 Website:
@@ -10,14 +10,13 @@ This is my sumission for my 2nd project for Coder Academy. the purpose of this p
 both HTML and CSS, as well as creating a base to work off and show off my talents as they grow.
 
 
+### Functionality / features:
 
-Functionality / features:
-
-Sitemap:
+### Sitemap:
 
 Here is a small diagram of my site and how each section is connected 
 
-Screenshots:
+### Screenshots:
 
 ![Image of Home page]
 
@@ -29,7 +28,7 @@ Screenshots:
 
 ![Image of Contact page]
 
-Target audience:
+### Target audience:
 
 
 
