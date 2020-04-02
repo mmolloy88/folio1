@@ -123,14 +123,30 @@ textarea {
 
 .blog {
         text-align: left;
-        float: left;
         width: 75%;
         padding: 25px;
         border-left: 5%;
         margin:25px auto ;
         }
 
+    .btn {
+        background-color: #2d767f;
+        border: none;
+        color: white;
+        padding: 12px 30px;
+        cursor: pointer;
+        font-size: 20px;
+        }
+          
+        /* Darker background on mouse-over */
+    .btn:hover {
+        background-color: #2d767f;
+    }
 
+.footer {
+   text-align: right;
+   padding: 0px 15px 10px 0px;
+}
 
 /* Palette: 
 
