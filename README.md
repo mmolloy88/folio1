@@ -41,7 +41,7 @@ creating a base to work off and show off my talents as they grow.
 Here is a small diagram of my site and how each section is connected 
 
 ![Image of sitemap]
-<img src="./docs/draw_sitemap">
+<img src="./docs/draw_sitemap.jpg">
 
 ### Screenshots:
 
