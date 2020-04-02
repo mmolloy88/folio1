@@ -4,7 +4,7 @@ my portfolio site:
 Github repository: https://github.com/mmolloy88/folio1
 Website:
 
-Description:
+### Description:
 
 This is my sumission for my 2nd project for Coder Academy. the purpose of this project is to showcase my ability in working with
 both HTML and CSS, as well as creating a base to work off and show off my talents as they grow.
