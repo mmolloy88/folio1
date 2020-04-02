@@ -44,15 +44,15 @@ Here is a small diagram of my site and how each section is connected
 
 
 ### Screenshots:
-
+home page:
 <img src="./docs/screenshot1.png" width="350px"/>
-
+about me:
 <img src="./docs/screenshot2.png" width="350px"/>
-
+resume:
 <img src="./docs/screenshot3.png" width="350px"/>
-
+blog:
 <img src="./docs/screenshot4.png" width="350px"/>
-
+contact page:
 <img src="./docs/screenshot5.png" width="350px"/>
 
 ### Target audience:
