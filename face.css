@@ -1,4 +1,4 @@
-
+/*   */
 body {
     background: linear-gradient(to right, #ecfffb , #b4f1f1);
     text-align: center;
@@ -6,7 +6,7 @@ body {
     color: #2D767F;
     min-width: 500px;
 }
-
+/* navbar - copy throughout each pach to navigate between them */
 .navigation {
     list-style-type: none;
     margin: 5%;
@@ -137,8 +137,7 @@ textarea {
         cursor: pointer;
         font-size: 20px;
         }
-          
-        /* Darker background on mouse-over */
+    
     .btn:hover {
         background-color: #2d767f;
     }
@@ -148,10 +147,20 @@ textarea {
    padding: 0px 15px 10px 0px;
 }
 
+
+
 /* Palette: 
 
 #1e6262 
 #2d767f
 #b4f1f1
 #ecfffb
+
+Alt Palette:
+
+#B5161E
+#059BA1
+#10869E
+#E6B42C
+
 */
