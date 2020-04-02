@@ -16,6 +16,9 @@ both HTML and CSS, as well as creating a base to work off and show off my talent
 
 Here is a small diagram of my site and how each section is connected 
 
+![Image of sitemao]
+(https://github.com/mmolloy88/folio1/blob/master/docs/draw_sitemap.jpg)
+
 ### Screenshots:
 
 ![Image of Home page]
